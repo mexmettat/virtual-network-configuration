@@ -100,7 +100,7 @@ Each folder contains numbered `.png` screenshots (e.g., `1.png`, `2.png`, `3.png
 │   └── 4.png → Second domain accessed in browser  
 
 📁 K/ - Mail Server Setup and SMTP-Based Email Testing  
-│   ├── 1.png → SMTP-compatible mail server setup screen (e.g., hMailServer)  
+│   ├── 1.png → SMTP-compatible mail server setup screen  
 │   ├── 2.png → Creating two mail accounts (e.g., mehmet@mehmet.net.tr)  
 │   └── 3.png → Sending and receiving emails tested using Outlook or another client (SMTP/IMAP setup)  
  
